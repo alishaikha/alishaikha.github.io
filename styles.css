@@ -1,0 +1,174 @@
+a.navbar-brand{
+  vertical-align:bottom;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+a.nav-link{
+  vertical-align: sub;
+  font-size: 20px;
+}
+
+.navbar img{
+  vertical-align: sub;
+}
+
+.main{
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    text-align:center;
+    padding: 40px;
+}
+
+.howitworks {
+    background-image: url(howitworks.jpg);
+    background-size: cover;
+    text-align:center;
+      padding: 40px;
+}
+
+.interested {
+  background-image: url(interested.jpg);
+    background-size: cover;
+    text-align:center;
+      padding: 40px;
+}
+
+.jumbotron {
+    padding: 50px;
+    background-color: rgba(225,225,225,.8);
+    border-radius: 20px;
+    padding: 48px;
+    max-width: 800px;
+    margin: 0 auto;
+    }
+
+.jumbotron1 {
+    padding: 50px;
+    background-color: rgba(225,225,225,.8);
+    border-radius: 20px;
+    padding: 48px;
+    max-width: 800px;
+    max-height: 220px;
+    margin: 0 auto;
+    }
+
+.jumbotron2 {
+    padding: 50px;
+    background-color: rgba(225,225,225,.8);
+    border-radius: 20px;
+    padding: 48px;
+    max-width: 800px;
+    max-height: 220px;
+    margin: 0 auto;
+    }
+
+
+.why{
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+.col-md-4 {
+  width: 10px;
+}
+
+.row{
+  text-align: center;
+}
+
+.row img{
+  max-height: 50px;
+  padding: 2px;
+}
+
+.footer{
+  background-color: #efefef;
+  text-align: right;
+  padding: 10px;
+  vertical-align: middle;
+  line-height: 10px;
+}
+
+#eat1-1{
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat1-2{
+  background-image: url(eat1.jpg);
+  background-size: cover;
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat2-1{
+  background-image: url(eat2.jpg);
+  background-size: cover;
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat2-2{
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat3-1{
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat3-2{
+  background-image: url(eat3.jpg);
+  background-size: cover;
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat4-1{
+  background-image: url(eat4.jpg);
+  background-size: cover;
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat4-2{
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat5-1{
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+#eat5-2{
+  background-image: url(eat5.jpg);
+  background-size: cover;
+  text-align: middle;
+  padding: 40px;
+  height: 250px;
+}
+
+
+#interestedform{
+  text-align: center;
+  align-items: center;
+}
+#submitinterested{
+  text-align: right;
+  align-items: right;
+}
